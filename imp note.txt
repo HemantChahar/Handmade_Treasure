@@ -1,0 +1,13 @@
+Open a web browser and browse the PHPMyAdmin. (http://localhost/phpmyadmin)
+Create a new database naming "db_ecommerce".
+Import the SQL file to your newly created database. The SQL file is located inside the extracted source code folder and known as "db_ecommerce.sql".
+Open a web browser and browse the web application. (http://localhost/ecommerce) for the website and for the admin side (http://localhost/ecommerce/admin)
+Admin Access
+
+Username: hemant
+Password: hemant12345
+
+Sample Customer Access
+
+Username: mona
+Password: mona12345
